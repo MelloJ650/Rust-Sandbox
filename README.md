@@ -1,5 +1,5 @@
 
-# Rust Playground
+# Rust-Sandbox
 
 This is a rust playground, as well as a reference to refer to when coding rust projects.
 
